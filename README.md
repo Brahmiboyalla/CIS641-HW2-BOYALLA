@@ -1,7 +1,7 @@
 # BRAHMAIAH BOYALLA
--PLAYING GAMES 
--WATCHING SPORTS
--READING BOOKS
+- PLAYING GAMES 
+- WATCHING SPORTS
+- READING BOOKS
 
 ## TECHNICAL BACKGROUND
 > I Recently Completed My Bachelors of Technology in May 2023 on electronics background. I know little bit of python. Currently i am learing html and css.
